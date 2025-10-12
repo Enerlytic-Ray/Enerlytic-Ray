@@ -5,9 +5,9 @@
 <!-- Adaptive Banner: shows light or dark version depending on GitHub theme -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png" />
-    <img src="assets/banner-light.png" alt="Adejoro Raymond Portfolio Banner" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="Enerlytic-RayBanner.png" />
+    <source media="(prefers-color-scheme: light)" srcset="Enerlytic-RayBanner.png" />
+    <img src="Enerlytic-RayBanner.png" alt="Adejoro Raymond Portfolio Banner" width="100%">
   </picture>
 </p>
 
