@@ -82,9 +82,11 @@
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enerlytic-Ray&show_icons=true&theme=tokyonight)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enerlytic-Ray&layout=donut&theme=tokyonight)](https://github.com/Enerlytic-Ray/github-readme-stats)
-  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enerlytic-Ray&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enerlytic-Ray&layout=compact&langs_count=6&theme=tokyonight&count_private=true)
+
 ---
 
 <p align="center">
