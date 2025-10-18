@@ -84,8 +84,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enerlytic-Ray&show_icons=true&theme=tokyonight)
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enerlytic-Ray&layout=compact&langs_count=6&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enerlytic-Ray&layout=compact&langs_count=6&theme=tokyonight&count_private=true&hide_border=true)
 
 ---
 
