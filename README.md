@@ -73,7 +73,7 @@
 <h2 style="color: blue;">📢 Communication</h2>
 
 <ul>
-  <li><strong>Email:</strong> <a href="mailto:raydey04@gmail.com">raydey04</a></li>
+  <li><strong>Email:</strong> <a href="mailto:raydey04@gmail.com">raydey04@gmail.com</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/raymond-adejoro-52989b143">LinkedIn</a></li>
 </ul>
 
