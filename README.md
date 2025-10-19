@@ -29,7 +29,7 @@
 <ul>
   <li><strong>Name:</strong> Adejoro Raymond Olaotan</li>
   <li><strong>Role:</strong> Business Data Analyst & Electrical Engineer</li>
-  <li><strong>Experience:</strong> 5+ years in data analysis, automation & utility operations</li>
+  <li><strong>Experience:</strong> 6+ years in data analysis, automation & utility operations</li>
   <li><strong>Focus:</strong> Turning complex data into actionable insights for smarter business and engineering decisions</li>
 </ul>
 
