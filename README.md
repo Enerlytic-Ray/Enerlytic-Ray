@@ -86,10 +86,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enerlytic-Ray&layout=compact&langs_count=6&theme=tokyonight&count_private=true&hide_border=true)
-
----
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Enerlytic-Ray&theme=dark" alt="GitHub Streak" />
