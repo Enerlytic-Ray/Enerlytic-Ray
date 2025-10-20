@@ -12,7 +12,7 @@
 </p>
 
 <h1 align="center">⚡ Adejoro Raymond Olaotan ⚡</h1>
-<h3 align="center">Business Data Analyst | Electrical Engineer | Smart Energy Enthusiast</h3>
+<h3 align="center"> Electrical & Electronic Engineer | Business Data Analyst | ML Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:raydey04@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail"></a>
